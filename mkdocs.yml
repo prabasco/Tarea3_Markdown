@@ -1,9 +1,10 @@
-site_name: My Docs - Pablo Rabasco
+site_name: Curso CEFIRE Markdown - Pablo Rabasco
 
-theme: readthedocs
+theme: 
+  name: material
 
 nav:
-    - Home: index.md
+    - Inicio: index.md
     - Tema 1:
       - Apartado 1: tema1/apartado1.md
       - Apartado 2: tema1/apartado2.md
