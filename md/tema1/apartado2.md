@@ -2,7 +2,7 @@
 
 # 7. Enlaces
 
-Se crean con el texto entre corchetes y la URL entre paréntesis.
+Se crean con el texto entre corchetes y la URL entre paréntesis
 
 ```markdown
 La empresa [OpenAI](https://openai.com) desarrolla ChatGPT
@@ -58,7 +58,7 @@ Haz click para ir a [Markdown][EnlaceMarkdown]
 # 8. Imágenes
 
 La sintaxis es similar a los enlaces, pero añadiendo `!`.  
-Title de la imagen (opcional): podemos añadir un "title" a la imagen, que se verá cuando pase el ratón sobre ella añadiendo entre comillas un texto justo detrás del enlace de la imagen.
+Title de la imagen (opcional): podemos añadir un "title" a la imagen, que se verá cuando pase el ratón sobre ella añadiendo entre comillas un texto justo detrás del enlace de la imagen
 
 ```markdown
 ![Imagen CSS3 (Texto alternativo)](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)
