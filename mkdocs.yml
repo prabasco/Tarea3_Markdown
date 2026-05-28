@@ -1,0 +1,12 @@
+site_name: My Docs - Pablo Rabasco
+
+theme: readthedocs
+
+nav:
+    - Home: index.md
+    - Tema 1:
+      - Apartado 1: tema1/apartado1.md
+      - Apartado 2: tema1/apartado2.md
+    - About: about.md
+
+
