@@ -38,10 +38,10 @@ Cabecera nivel 2 (Usando -)
 ###### Cabecera nivel 6
 
 Cabecera nivel 1 (Usando =)
-===
+====
 
 Cabecera nivel 2 (Usando -)
----
+----
 
 ---
 
