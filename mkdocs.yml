@@ -2,8 +2,17 @@ site_name: Curso CEFIRE Markdown - Pablo Rabasco
 docs_dir: "md"
 site_dir: "docs"
 
-theme: 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+
+theme:
   name: 'material'
+  logo: 'img/logoMarkdown.png'
+  favicon: 'img/logoMarkdown.png'
+  palette:
+    primary: 'white'
 
 nav:
     - Inicio: index.md
